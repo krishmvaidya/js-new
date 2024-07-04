@@ -15,3 +15,9 @@ console.log(haha);
 
 // here we are converting number to boolean values
 // true-1, false-0, empty strig- false, string-true
+
+
+
+//***************************************************************** OPERATIONS ****************************************************************//
+
+
